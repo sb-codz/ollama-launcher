@@ -6,7 +6,9 @@
 [![Bash](https://img.shields.io/badge/Bash-4.3%2B-green)](https://www.gnu.org/software/bash/)
 
 > [!WARNING]
-> **Unofficial Project — Use at Your Own Risk**  
+> **Unofficial Project — Use at Your Own Risk** 
+> * *Not fully Tested*
+> 
 > This tool is **not affiliated with Ollama, Anthropic, OpenAI, Microsoft, or any other company**.  
 > By using this software, you agree to:  
 > • Comply with all third-party Terms of Service and API policies  
