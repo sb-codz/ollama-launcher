@@ -51,7 +51,7 @@ Models with the `:cloud` suffix are routed through Ollama's remote inference API
 
 ### Installation
 ```bash
-git clone https://github.com/sb-codz/ollama-launcher.git
+git clone https://github.com/sb-codz/ollama-launcher
 cd ollama-launcher
 chmod +x ollama_launcher.sh
 ```
